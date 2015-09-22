@@ -1,4 +1,3 @@
-<!-- tell emacs to use -*- markdown -*- mode -->
 Lecture One
 ===========
 Course materials: http://github.com/barak/mu-cs424-f2015
